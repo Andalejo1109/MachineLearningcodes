@@ -51,6 +51,7 @@ The goal of this repository is to provide practical examples and implementations
 
 Contributions are welcome! If you have any improvements or new examples to add, feel free to submit a pull request.
 
+
 ## Contact
 
 [Alejandro Rodriguez Lozano]
