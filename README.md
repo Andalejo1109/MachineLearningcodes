@@ -42,7 +42,7 @@ The goal of this repository is to provide practical examples and implementations
 
 ## Usage
 
-1.  Clone the repository: `git clone [repository URL]`
+1.  Clone the repository: `git clone [[repository URL](https://github.com/Andalejo1109/MachineLearningcodes)]`
 2.  Navigate to the repository directory: `cd [repository directory]`
 3.  Open the Jupyter Notebooks using Jupyter Lab or Jupyter Notebook.
 4.  Run the cells in the notebooks to execute the code and explore the examples.
